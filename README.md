@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, my name is Tran Ngoc Khiet, nickname is Slayer
 
-<!--
-**TranNgocKhiet/TranNgocKhiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+They say good girls are found in every corners of the Earth 
+Unfortunately, the Earth is round 
+Wake up and code homie
 
-Here are some ideas to get you started:
+## Overview
+- University Student of Software Engineer at FPT University HCM Campus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skill and technology
+
+* **Ngôn ngữ Lập trình:** `Python` | `JavaScript` | `Java` | `C++` | `C#`
+* **Frameworks & Thư viện:** `React` | `Node.js` | `Hugo` | `Spring Boot`
+* **Cơ sở Dữ liệu:** `Amazon S3` | `Amazon DynamoDB` | `MySQL`
+* **Công cụ/DevOps:** `Git` | `Gitlab Pipeline` | `GitHub Actions`
+
+---
+
+### Now learning
+
+* AWS Services
+* DevOps
+
+---
+
+## Contact me
+
+* **Email:** tranngockhiet22062005@gmail.com
+* **Website/Blog:** [[Personal Website]](https://programming-note-fawn.vercel.app/)
+
+---
+
+### GitHub statistics
+
+> ![Thống kê GitHub của tôi](https://github-readme-stats.vercel.app/api?username=TranNgocKhiet&show_icons=true&theme=radical)
+
+---
+
+### Some project
+
+[Photo Locker]()
