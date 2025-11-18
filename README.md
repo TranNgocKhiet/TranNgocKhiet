@@ -15,7 +15,7 @@ Wake up and code homies
 
 * **Promgramming languages:** `Python` | `JavaScript` | `Java` | `C++` | `C#`
 * **Frameworks & Libraries:** `React` | `Node.js` | `Hugo` | `Spring Boot`
-* **DBMS:** `Amazon S3` | `Amazon DynamoDB` | `MySQL`
+* **DBMS:** `Amazon S3` | `Amazon DynamoDB` | `MSSQL`
 * **DevOps tools:** `Git` | `Gitlab Pipeline` | `GitHub Actions`
 
 ---
