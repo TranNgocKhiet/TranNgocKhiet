@@ -18,10 +18,11 @@
 ## Contact me
 
 * **Email:** <tranngockhiet22062005@gmail.com>
-* **Personal Learning Website:** <https://programming-note-fawn.vercel.app>
+* **Phone number:** 0964171773
 
 ---
 
 ### Some project
 
-[reviedia](https://nextjs-reviedia.vercel.app/)
+[Reviedia](https://nextjs-reviedia.vercel.app)
+[Personal Learning Website](https://programming-note-fawn.vercel.app)
