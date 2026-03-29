@@ -22,8 +22,8 @@
 
 ---
 
-## Some project
+## Some of my projects
 
-[Reviedia](https://nextjs-reviedia.vercel.app)
+[Reviedia](https://nextjs-reviedia.vercel.app) (personal)
 
-[Personal Learning Website](https://programming-note-fawn.vercel.app)
+[Personal Learning Website](https://programming-note-fawn.vercel.app) (personal)
