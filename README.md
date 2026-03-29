@@ -22,7 +22,7 @@
 
 ---
 
-### Some project
+## Some project
 
 [Reviedia](https://nextjs-reviedia.vercel.app)
 
